@@ -1,7 +1,10 @@
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
-redis:6.2.6
+neo4j:3.5.4
+elasticsearch:7.16.3
+kibana:7.16.3
+
 
 #支持指定架构
 #platform=linux/arm64 xiaoyaliu/alist
